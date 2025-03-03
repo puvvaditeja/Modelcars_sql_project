@@ -1,2 +1,9 @@
-# Modelcars_sql_project
-SQL database project for analyzing model cars inventory, sales trends, and customer insights. Includes database schema, data import scripts, and SQL queries for data analysis.
+# Model Cars Database Analysis (SQL Project)
+## Project Objective
+- To analyze a modelcar sales database using SQL to extract meaningful insights related to inventory management, customer orders, sales performance, and employee contributions.
+- The key goals include:
+✔ Understanding Sales Performance – Identify top-selling model cars and revenue trends.
+✔ Customer Behavior Analysis – Segment customers based on purchase history and order frequency.
+✔ Inventory Optimization – Evaluate stock levels and identify frequently reordered products.
+✔ Operational Efficiency – Assess order processing time and employee performance.
+✔ Revenue Trends – Analyze sales patterns across different time periods and locations.
