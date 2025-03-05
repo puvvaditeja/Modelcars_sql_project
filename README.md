@@ -43,7 +43,6 @@
 - Identify the top selling products based on total quantity ordered using a stored procedure. The procedure should accept an input parameter to specify the number of top-selling products to retrieve.
 - Retrieve products with low inventory levels (less than a threshold value of 10 for quantityInStock) within specific product lines ('Classic Cars', 'Motorcycles').
 - Find the names of all products that have been ordered by more than 10 customers.
-- Find the names of all products that have been ordered more than the average number of orders for their product line.
 - Identify the most profitable orders based on total revenue.
 - List all orders with detailed product information.
 - Identify orders with delayed shipping (shippedDate > requiredDate).
