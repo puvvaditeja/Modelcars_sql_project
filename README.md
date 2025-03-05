@@ -51,7 +51,15 @@
 - Create a trigger that automatically updates a customer's credit limit after a new order is placed, reducing it by the order total.
 
 ## Project Insights
-- 
+- 'California' as the state with the highest customer concentration, followed by 'New York' and 'Texas'.
+- About 24 customers who haven't placed any orders
+- office code '1' has the highest number of employees, followed by offices '2' and '3'
+- office code '4' has the most profitable office based on sales
+- 'USA' has the highest number of offices
+- 'classic cars' product line has the highest number of products followed by vintage cars
+- 'classic cars' product line has the highest average product price.
+- '1952 Alpine Renault 1300' product is the most expensive product based on MSRP.
+- '1992 Ferrari 360 Spider red' product is the most consistent product ordered by customers
 
 ## Conclusion
 - In this project, we successfully designed, queried, and analyzed a relational database for a model car sales system. The database consisted of multiple interconnected tables, including products, orders, customers, employees, and payments, enabling a structured approach to managing business operations.
